@@ -13,9 +13,9 @@ fun myName(){
 
 }
 fun division(){
-    var x=10
-    var y=5
-    var devi=x/y
+    var a=10
+    var b=5
+    var devi=a/b
     println(devi)
 }
 fun sum(a:Int,b:Int,c:Int,d:Int):Int{
